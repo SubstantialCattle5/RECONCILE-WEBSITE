@@ -1,0 +1,52 @@
+body{
+    background-color: white  ;
+    color : rgb(35, 41, 49) ;
+    font-family : 'Fredoka', sans-serif;
+    font-size: x-large;
+}
+
+/*Intro Title*/
+.navbar{
+    background-color: rgb(78, 204, 163);
+}
+.outerbox{
+    position: relative;
+    top :100px ;
+    width : inherit;
+    height: 100px ;
+    background-color: white;
+
+}
+.title{
+    font-size: xxx-large;
+}
+
+/*Mission*/
+.mission_outer_page{
+    position: relative;
+    top : 250px   ;
+    padding : 20px 20px 40px 20px  ;
+    background-color: rgb(182, 200, 103);
+    color : rgb(21, 45, 53);
+}
+.mission_title{
+    padding-bottom: 12px ;
+    font-size: xxx-large;
+}
+.mission_sub_title{
+    font-size: x-large ;
+}
+
+/*Products*/
+.product_outer_page{
+    position: relative;
+    top : 280px ;
+
+}
+.product_heading{
+    font-size: xx-large;
+
+}
+.image{
+    padding-left : 40px ;
+}
