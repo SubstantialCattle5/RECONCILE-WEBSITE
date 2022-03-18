@@ -26,7 +26,7 @@ body{
     position: relative;
     top : 250px   ;
     padding : 40px 20px 40px 20px  ;
-    background-color: rgb(182, 200, 103);
+    background-color: rgb(167, 255, 131);
     color : rgb(21, 45, 53);
 }
 .mission_title{
@@ -40,8 +40,10 @@ body{
 /*Products*/
 .product_outer_page{
     position: relative;
-    top : 280px ;
-
+    top : 230px  ;
+    background-color: rgb(8, 105, 114) ;
+    color : white ;
+    padding-top : 25px;
 }
 .product_heading{
     font-size: xxx-large;
