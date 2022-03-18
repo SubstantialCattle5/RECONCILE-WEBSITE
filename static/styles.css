@@ -45,6 +45,8 @@ body{
 }
 .product_heading{
     font-size: xx-large;
+    padding-top : 20px ;
+    padding-bottom: 20px ;
 
 }
 .image{
